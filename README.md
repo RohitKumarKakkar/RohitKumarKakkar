@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RohitKumarKakkar
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter
 - 📫 How to reach me :- zkumarzrohit@gmail.com
 
 <!---
